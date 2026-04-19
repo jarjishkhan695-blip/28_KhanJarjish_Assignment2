@@ -2,6 +2,7 @@
 README.md
 
 📊 Text Analytics – Sentiment Analysis
+
 (1) Problem Statement
 
 Social media platforms generate a massive amount of textual data every day. Understanding user sentiment from this data is crucial for decision-making in industries such as entertainment, marketing, and product development.
@@ -16,6 +17,7 @@ Naïve Bayes
 Support Vector Machine (SVM)
 Logistic Regression
 Evaluate model performance using precision and recall
+
 (3) Dataset
 
 Source: Manually created dataset (simulated tweets)
@@ -31,6 +33,7 @@ Dataset Size:
 Total: 100 tweets
 Training: 80 tweets
 Testing: 20 tweets
+
 (4) Methodology
 1. Data Preprocessing
 Loaded dataset using Pandas
@@ -53,6 +56,7 @@ Recall
 Classification Report
 Confusion Matrix
 Visualization using bar charts
+
 (5) Results
 Model	Precision	Recall
 Naïve Bayes	~0.55	~0.55
@@ -64,9 +68,11 @@ Naïve Bayes performed moderately well
 Logistic Regression showed comparatively lower performance
 Misclassification mainly occurred between neutral and positive tweets
 Performance is limited due to the small dataset size
+
 (6) How to Run
 pip install -r requirements.txt
 python main.py
+
 (7) Conclusion
 
 This project demonstrates how machine learning techniques can be used to perform sentiment analysis on textual data. Among the implemented models, Support Vector Machine (SVM) performed the best.
@@ -76,6 +82,7 @@ The results can be further improved by:
 Using a larger dataset
 Incorporating real-world noisy data
 Applying advanced techniques such as deep learning models
+
 (8) Student Details
 Name: Khan Jarjish
 Roll No: 28

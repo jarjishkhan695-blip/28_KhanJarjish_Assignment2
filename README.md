@@ -1,4 +1,4 @@
-# 28_KhanJarjish_Assignment2
+
 README.md
 
 📊 Text Analytics – Sentiment Analysis
@@ -82,15 +82,4 @@ The results can be further improved by:
 Using a larger dataset
 Incorporating real-world noisy data
 Applying advanced techniques such as deep learning models
-
-(8) Student Details
-
-Name: Khan Jarjish
-
-Roll No: 28
-
-UIN: 231A034
-
-Year: TE-AIDS 2026
-
 
